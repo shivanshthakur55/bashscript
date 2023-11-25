@@ -1,0 +1,4 @@
+nekobin.con
+tempmail
+github.com
+DNS=Domain name system
